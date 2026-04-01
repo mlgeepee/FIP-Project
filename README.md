@@ -2,7 +2,7 @@
 
 A modern, responsive web application for students to find and book hostel rooms. Features include user authentication, room search/filtering, smart room recommendations, and a detailed room viewing experience.
 
-## 🏠 Features
+## Features
 
 ### Authentication
 
@@ -47,7 +47,7 @@ A modern, responsive web application for students to find and book hostel rooms.
 - **LocalStorage**: Client-side data persistence for users and sessions
 - **Google Fonts**: Inter font family for modern typography
 
-## 🎨 Color Scheme
+## Color Scheme
 
 | Color            | Hex Code  | Usage                           |
 | ---------------- | --------- | ------------------------------- |
@@ -68,7 +68,7 @@ FIP-Project/
 └── PRESENTATION.pdf    # Presentation slides (link below)
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone or download** the project files
 2. **Open `index.html`** in a modern web browser
@@ -77,7 +77,7 @@ FIP-Project/
 5. **Browse rooms** using search and filters
 6. **Use Smart Room Finder** for personalized recommendations
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### Signing Up
 
@@ -104,19 +104,11 @@ FIP-Project/
 5. Select desired amenities
 6. Click "Find My Room" to get recommendations
 
-## 🔒 Security Notes
+## Security Notes
 
 - This is a demonstration project using client-side storage
 - Passwords are stored using simple encoding (not production-ready)
 - For production use, implement proper backend authentication and database
-
-## 📄 License
-
-This project is created for educational purposes as part of the FIP Project.
-
-## 📧 Contact
-
-For questions or support, please contact the project maintainer.
 
 ---
 
