@@ -116,7 +116,7 @@ FIP-Project/
 
 View the complete presentation slides covering project details, features, and technologies:
 
-- [Download Presentation (PDF)](./PRESENTATION.pdf)
+- [Download Presentation (PDF)](./Hostel%20Room%20Directory.pdf)
 
 The presentation includes:
 
