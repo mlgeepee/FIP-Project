@@ -39,7 +39,7 @@ A modern, responsive web application for students to find and book hostel rooms.
 - **Hover Tooltips**: Get additional information by hovering over amenities
 - **Color-coded Status**: Visual indicators for room availability
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**: Semantic markup for accessibility and SEO
 - **CSS3**: Modern styling with CSS Grid, Flexbox, and CSS Variables
@@ -124,7 +124,6 @@ The presentation includes:
 - Features Breakdown
 - Technical Architecture
 - UI/UX Design
-- Demo Screenshots
 - Future Enhancements
 
 ## Color Palette
