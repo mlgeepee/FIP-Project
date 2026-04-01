@@ -57,7 +57,7 @@ A modern, responsive web application for students to find and book hostel rooms.
 | Accent Red       | `#FF595E` | Errors, occupied rooms          |
 | Accent Yellow    | `#FFCA3A` | Warnings, maintenance rooms     |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 FIP-Project/
@@ -116,7 +116,7 @@ FIP-Project/
 
 View the complete presentation slides covering project details, features, and technologies:
 
-👉 [Download Presentation (PDF)](./PRESENTATION.pdf)
+- [Download Presentation (PDF)](./PRESENTATION.pdf)
 
 The presentation includes:
 
@@ -126,3 +126,7 @@ The presentation includes:
 - UI/UX Design
 - Demo Screenshots
 - Future Enhancements
+
+## Color Palette
+
+- [View the full color palette on Coolors](https://coolors.co/palette/ff595e-ffca3a-8ac926-1982c4-6a4c93)
