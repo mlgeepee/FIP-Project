@@ -112,7 +112,7 @@ FIP-Project/
 
 ---
 
-## 📊 Presentation Slides
+## Presentation Slides
 
 View the complete presentation slides covering project details, features, and technologies:
 
