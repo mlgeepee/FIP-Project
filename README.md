@@ -143,9 +143,8 @@ FIP-Project/
 View the complete presentation slides covering project details, features, and technologies:
 
 - [View Presentation file (PDF)](Hostel-Room-Directory.pdf)
-  <a href="Hostel-Room-Directory.pdf" target="_blank">View Presentation file</a>
 
-The presentation covers:
+  The presentation covers:
 
 - **Project Overview** – Introduction and objectives
 - **Features Breakdown** – Detailed feature explanations
