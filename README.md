@@ -1,5 +1,8 @@
 # Hostel Room Directory - Smart Room Finder
 
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 A modern, responsive web application for students to find and book hostel rooms. Features include user authentication, room search/filtering, smart room recommendations, and a detailed room viewing experience.
 
 ## Features
@@ -41,11 +44,13 @@ A modern, responsive web application for students to find and book hostel rooms.
 
 ## Technologies Used
 
-- **HTML5**: Semantic markup for accessibility and SEO
-- **CSS3**: Modern styling with CSS Grid, Flexbox, and CSS Variables
-- **JavaScript (ES6+)**: Object-oriented programming with classes
-- **LocalStorage**: Client-side data persistence for users and sessions
-- **Google Fonts**: Inter font family for modern typography
+| Technology            | Purpose                                                  |
+| --------------------- | -------------------------------------------------------- |
+| **HTML5**             | Semantic markup for accessibility and SEO                |
+| **CSS3**              | Modern styling with CSS Grid, Flexbox, and CSS Variables |
+| **JavaScript (ES6+)** | Object-oriented programming with classes                 |
+| **LocalStorage**      | Client-side data persistence for users and sessions      |
+| **Google Fonts**      | Inter font family for modern typography                  |
 
 ## Color Scheme
 
@@ -70,12 +75,33 @@ FIP-Project/
 
 ## Getting Started
 
-1. **Clone or download** the project files
-2. **Open `index.html`** in a modern web browser
-3. **Sign up** for a new account (requires 9-digit matric number)
-4. **Login** with your credentials
-5. **Browse rooms** using search and filters
-6. **Use Smart Room Finder** for personalized recommendations
+### Prerequisites
+
+- A modern web browser (Chrome, Firefox, Safari, or Edge)
+- JavaScript enabled in your browser
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/mlgeepee/FIP-Project.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd FIP-Project
+   ```
+
+3. **Open `index.html`** in your web browser
+
+### Quick Start
+
+1. **Sign up** for a new account (requires 9-digit matric number)
+2. **Login** with your credentials
+3. **Browse rooms** using search and filters
+4. **Use Smart Room Finder** for personalized recommendations
 
 ## Usage Guide
 
@@ -118,14 +144,40 @@ View the complete presentation slides covering project details, features, and te
 
 - [Download Presentation (PDF)](./Hostel%20Room%20Directory.pdf)
 
-The presentation includes:
+The presentation covers:
 
-- Project Overview
-- Features Breakdown
-- Technical Architecture
-- UI/UX Design
-- Future Enhancements
+- **Project Overview** – Introduction and objectives
+- **Features Breakdown** – Detailed feature explanations
+- **Technical Architecture** – System design and implementation
+- **UI/UX Design** – Design principles and user experience
 
-## Color Palette
+---
 
-- [View the full color palette on Coolors](https://coolors.co/palette/ff595e-ffca3a-8ac926-1982c4-6a4c93)
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+## Acknowledgments
+
+- Color palette inspired by [Coolors.co](https://coolors.co/palette/ff595e-ffca3a-8ac926-1982c4-6a4c93)
+- Font family: [Inter](https://fonts.google.com/specimen/Inter) from Google Fonts
+
+---
+
+## Contact
+
+For questions or support, please open an issue on the [GitHub repository](https://github.com/mlgeepee/FIP-Project/issues).
