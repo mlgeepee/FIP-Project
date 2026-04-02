@@ -70,7 +70,7 @@ FIP-Project/
 ├── styles.css          # All CSS styles
 ├── script.js           # JavaScript functionality
 ├── README.md           # This documentation file
-└── PRESENTATION.pdf    # Presentation slides (link below)
+└── Hostel-Room.pdf     # Presentation slides (link below)
 ```
 
 ## Getting Started
@@ -142,7 +142,7 @@ FIP-Project/
 
 View the complete presentation slides covering project details, features, and technologies:
 
-- [Download Presentation (PDF)](./Hostel%20Room%20Directory.pdf)
+- [Download Presentation (PDF)](./Hostel-Room-Directory.pdf)
 
 The presentation covers:
 
