@@ -116,7 +116,7 @@ FIP-Project/
 
 View the complete presentation slides covering project details, features, and technologies:
 
-- [View the presentation slides](https://mlgeepee.github.io/FIP-Project/viewer.html?file=Hostel-Room-Directory.pdf)
+- [View Presentation slides](https://docs.google.com/presentation/d/1MD7yN4T6FrrKiGDQbW5swHyVpQBBFDyYMYe5TANR9PE/edit?slide=id.p#slide=id.p)
 
 The presentation includes:
 
