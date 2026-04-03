@@ -129,3 +129,7 @@ The presentation includes:
 ## Color Palette
 
 - [View the full color palette on Coolors](https://coolors.co/palette/ff595e-ffca3a-8ac926-1982c4-6a4c93)
+
+## Live Demo
+
+- [View the live demo](https://fip-project.vercel.app/)
